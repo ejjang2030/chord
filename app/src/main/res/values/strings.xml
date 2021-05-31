@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Chord</string>
+
+    <!-- Login -->
+    <string name="login">로그인</string>
+    <string name="initial_chord">Chord가 처음이신가요?</string>
+    <string name="signup">회원가입</string>
+    <string name="email">이메일</string>
+    <string name="password">비밀번호</string>
+    <string name="stay_login">로그인 상태 유지</string>
+    <string name="find_id">아이디 찾기</string>
+    <string name="find_pw">비밀번호 찾기</string>
+    <string name="id">ID</string>
+    <string name="pw">PW</string>
+    <!-- SignUp -->
+    <string name="signup_by_email">이메일로 회원가입</string>
+    <string name="signup_by_gmail">GOOGLE로 회원가입</string>
+    <string name="signup_by_sns">SNS계정으로 회원가입</string>
+</resources>

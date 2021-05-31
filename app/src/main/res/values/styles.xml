@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="base_theme">
+        <item name="android:textColor">@color/chord_normal</item>
+        <item name="android:textSize">@dimen/initial</item>
+    </style>
+</resources>
