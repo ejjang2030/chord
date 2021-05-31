@@ -91,7 +91,8 @@
                 android:layout_height="wrap_content"
                 android:background="@drawable/login_button"
                 android:layout_margin="20dp"
-                android:text="@string/to_signup"/>
+                android:text="@string/to_signup"
+                android:fontFamily="@font/elicedigitalbaeum_regular"/>
         </LinearLayout>
     </ScrollView>
 </LinearLayout>
