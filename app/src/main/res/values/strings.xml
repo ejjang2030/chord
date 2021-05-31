@@ -16,4 +16,10 @@
     <string name="signup_by_email">이메일로 회원가입</string>
     <string name="signup_by_gmail">GOOGLE로 회원가입</string>
     <string name="signup_by_sns">SNS계정으로 회원가입</string>
+    <string name="name">이름</string>
+    <string name="nickname">닉네임</string>
+    <string name="password_confirm">비밀번호 확인</string>
+    <string name="phone_number">휴대폰 번호</string>
+    <string name="confirmation_number">인증번호 입력</string>
+    <string name="to_signup">회원가입 하기</string>
 </resources>
